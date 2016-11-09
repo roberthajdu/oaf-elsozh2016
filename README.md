@@ -1,4 +1,4 @@
 # oaf-elsozh2016
 oaf-elsozh2016
 
-[[Home]]
+Check Wiki for more.
